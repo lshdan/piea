@@ -1,0 +1,24 @@
+2020-08-26 15:38:13,847 - INFO - parameters for ['a0141-IMG_3342.jpg'] after filter 0: [array([[0.26000005]], dtype=float32), array([[0.]], dtype=float32), array([[0., 0., 0.]], dtype=float32), array([[-6.]], dtype=float32), array([[0., 0., 0., 0., 0., 0., 0., 0.]], dtype=float32), array([[0.]], dtype=float32), array([[-6.]], dtype=float32), array([[0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0.]], dtype=float32)]
+2020-08-26 15:38:17,224 - INFO - parameters for ['a0141-IMG_3342.jpg'] after filter 1: [array([[0.25200015]], dtype=float32), array([[-0.008]], dtype=float32), array([[0., 0., 0.]], dtype=float32), array([[-6.]], dtype=float32), array([[0., 0., 0., 0., 0., 0., 0., 0.]], dtype=float32), array([[0.]], dtype=float32), array([[-6.]], dtype=float32), array([[0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0.]], dtype=float32)]
+2020-08-26 15:38:20,900 - INFO - parameters for ['a0141-IMG_3342.jpg'] after filter 2: [array([[0.25200015]], dtype=float32), array([[-0.0096]], dtype=float32), array([[0.        , 0.00156812, 0.00622238]], dtype=float32), array([[-6.]], dtype=float32), array([[0., 0., 0., 0., 0., 0., 0., 0.]], dtype=float32), array([[0.]], dtype=float32), array([[-6.]], dtype=float32), array([[0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0.]], dtype=float32)]
+2020-08-26 15:38:24,548 - INFO - parameters for ['a0141-IMG_3342.jpg'] after filter 3: [array([[0.25200015]], dtype=float32), array([[-0.01159999]], dtype=float32), array([[0.        , 0.00278371, 0.00661135]], dtype=float32), array([[-6.2000046]], dtype=float32), array([[0., 0., 0., 0., 0., 0., 0., 0.]], dtype=float32), array([[0.]], dtype=float32), array([[-6.]], dtype=float32), array([[0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0.]], dtype=float32)]
+2020-08-26 15:38:28,410 - INFO - parameters for ['a0141-IMG_3342.jpg'] after filter 4: [array([[0.24800017]], dtype=float32), array([[-0.01199999]], dtype=float32), array([[0.        , 0.00423795, 0.00616396]], dtype=float32), array([[-6.220003]], dtype=float32), array([[ 0.0150264 , -0.0580411 ,  0.04034423,  0.05661338, -0.09166638,
+         0.03867139, -0.09823104,  0.08746544]], dtype=float32), array([[0.]], dtype=float32), array([[-6.]], dtype=float32), array([[0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0.]], dtype=float32)]
+2020-08-26 15:38:32,386 - INFO - parameters for ['a0141-IMG_3342.jpg'] after filter 5: [array([[0.24200016]], dtype=float32), array([[-0.011]], dtype=float32), array([[0.        , 0.00498364, 0.00601473]], dtype=float32), array([[-6.2400017]], dtype=float32), array([[ 0.01529201, -0.06558667,  0.04591413,  0.05761825, -0.09496718,
+         0.04405758, -0.11089784,  0.09675407]], dtype=float32), array([[0.20000002]], dtype=float32), array([[-6.]], dtype=float32), array([[0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0.]], dtype=float32)]
+2020-08-26 15:38:36,399 - INFO - parameters for ['a0141-IMG_3342.jpg'] after filter 6: [array([[0.24200016]], dtype=float32), array([[-0.009]], dtype=float32), array([[0.        , 0.00558583, 0.00642425]], dtype=float32), array([[-6.26]], dtype=float32), array([[ 0.01452618, -0.07215138,  0.05132439,  0.05671326, -0.09773272,
+         0.0496134 , -0.12380509,  0.10751256]], dtype=float32), array([[0.21600005]], dtype=float32), array([[-5.9800014]], dtype=float32), array([[0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0.]], dtype=float32)]
+2020-08-26 15:38:40,646 - INFO - parameters for ['a0141-IMG_3342.jpg'] after filter 7: [array([[0.23800015]], dtype=float32), array([[-0.0094]], dtype=float32), array([[0.       , 0.0056239, 0.0063806]], dtype=float32), array([[-6.279999]], dtype=float32), array([[ 0.01602903, -0.07323167,  0.05600017,  0.05955429, -0.1101403 ,
+         0.05272765, -0.1307603 ,  0.11382551]], dtype=float32), array([[0.21600005]], dtype=float32), array([[-5.9783993]], dtype=float32), array([[ -7.1772056,  -6.334995 ,  -6.491062 ,   6.790358 ,  -5.2341585,
+          8.624908 ,  -8.40882  ,   5.9980206,   7.369157 ,   8.704309 ,
+         10.181447 ,   7.351649 ,   5.762491 ,  12.525587 , -10.428644 ,
+          7.793348 ,   8.326269 ,  -6.375722 ,   7.2929606,   8.381081 ,
+         -6.572434 , -13.386728 ,   9.817737 ,   6.0208416]],
+      dtype=float32)]

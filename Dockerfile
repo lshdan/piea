@@ -26,3 +26,4 @@ RUN chmod -R 777 /root
 WORKDIR /app
 
 ENV PYTHONPATH /app
+ENV HOME /root

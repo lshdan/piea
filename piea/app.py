@@ -4,6 +4,7 @@
 
 from __future__ import print_function
 import tensorflow as tf
+import pathlib
 
 from keras.models import Model
 from keras.layers import Dense, Dropout, Input
@@ -112,8 +113,6 @@ def main(args):
     CHANNEL=3
     img_size = np.ndarray((1, WIDTH, HEIGHT, CHANNEL))
 
-    import pathlib
-    pathlib.Path(args.tgt).mkdir(parents=True, exist_ok=True)
 
     #'''
     
@@ -257,5 +256,6 @@ def main(args):
 
 if __name__ == "__main__":
     args = parse_args()
+    pathlib.Path(args.tgt).mkdir(parents=True, exist_ok=True)
     init_logging(args.tgt)
     main(args)
