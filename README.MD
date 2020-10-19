@@ -29,7 +29,7 @@ This our official implementation for the [paper](http://bio.duxy.me/papers/ICMR2
 
 If you use the codes, please cite the paper. Thanks!
 
-This code implementation is by [@duxy-me](https://github.com/duxy-me) and [@lshdan](https://github.com/lshdan). 
+This codes are implemented by [@duxy-me](https://github.com/duxy-me) and [@lshdan](https://github.com/lshdan). The implementations of filters are from [@yuanming-hu](https://github.com/yuanming-hu/exposure)
 
 ## Setup 
 
