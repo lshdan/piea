@@ -19,12 +19,13 @@ This our official implementation for the [paper](http://bio.duxy.me/papers/ICMR2
 
 > Xiaoyu Du, Xun Yang, Zhiguang Qin, Jinhui Tang, **Progressive Image Enhancement under Aesthetic Guidance**, in ICMR ’19, June 10–13, 2019, Ottawa, ON, Canada.
 
+* The basic concept is: given a expert, improve the image by the feedback from the expert. 
 ![Concept](./docs/idea.png)
 
-
+* The achitecture
 ![Architecture](./docs/architecture.png)
 
-
+* Samples
 ![Gallery](./docs/gallery.png)
 
 If you use the codes, please cite the paper. Thanks!
