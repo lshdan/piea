@@ -29,7 +29,7 @@ This our official implementation for the paper:
 
 If you use the codes, please cite the paper. Thanks!
 
-This code implementation is by @duxy-me and @lshdan. 
+This code implementation is by [@duxy-me](https://github.com/duxy-me) and [@lshdan](https://github.com/lshdan). 
 
 ## Setup 
 
