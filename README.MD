@@ -15,7 +15,7 @@ methods. In the future, we will explore a better way to update filter
 parameters more efficiently and improve the aesthetic assessment
 models to adapt to the weak images.
 
-This our official implementation for the paper:
+This our official implementation for the [paper](http://bio.duxy.me/papers/ICMR2019-PIEA.pdf):
 
 > Xiaoyu Du, Xun Yang, Zhiguang Qin, Jinhui Tang, **Progressive Image Enhancement under Aesthetic Guidance**, in ICMR ’19, June 10–13, 2019, Ottawa, ON, Canada.
 
